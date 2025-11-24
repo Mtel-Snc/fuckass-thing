@@ -1,3 +1,5 @@
-local whitelist = {
-  "MtelSnc"
+return {
+  MtelSnc = {
+    "Developer"
+  }
 }
