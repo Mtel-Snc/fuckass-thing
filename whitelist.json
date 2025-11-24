@@ -1,5 +1,13 @@
 {
-  "developers": [
+  "owners": [
     "MtelSnc"
+  ]
+  "developers": [
+  ],
+  "admins": [
+  ],
+  "testers": [
+  ]
+  "contributors": [
   ]
 }
